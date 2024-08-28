@@ -4,7 +4,7 @@
 - 信息架构
 	- [元数据（架构）管理方案](https://github.com/OOAAHH/DATA_Govern/edit/main/README.md#%E5%85%83%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84%E7%AE%A1%E7%90%86%E6%96%B9%E6%A1%88)
 	- [数据资产架构](https://github.com/OOAAHH/DATA_Govern/main/README.md#数据资产架构)
-	- [数据（流）架构 （数据分级）](https://github.com/OOAAHH/DATA_Govern/edit/main/README.md#数据（流）架构 （数据分级）)
+	- [数据（流）架构 （数据分级）]([https://github.com/OOAAHH/DATA_Govern/edit/main/README.md#数据（流）架构 （数据分级）](https://github.com/OOAAHH/DATA_Govern?tab=readme-ov-file#%E6%95%B0%E6%8D%AE%E6%B5%81%E6%9E%B6%E6%9E%84-%E6%95%B0%E6%8D%AE%E5%88%86%E7%BA%A7))
  	- 数据标准组件：数据元、数据质量、数据标准 
 
 
