@@ -195,3 +195,8 @@ L1到L3的过程中隐藏着一个问题，对质量分数的监控处于黑箱�
 
 
 ![singlecell_dataflow drawio](https://github.com/user-attachments/assets/52b1ebe5-f24c-43c6-8797-e6fb19975492)
+
+
+## 数据标准组件
+### 数据准入标准
+[单细胞组学 数据准入标准](https://github.com/OOAAHH/DATA_Govern/blob/main/%E5%8D%95%E7%BB%86%E8%83%9E%E7%BB%84%E5%AD%A6_%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE%E4%B8%8E%E5%A4%84%E7%90%86%E5%90%8E%E6%95%B0%E6%8D%AE%E7%9A%84%E5%87%86%E5%85%A5%E6%A0%87%E5%87%86.docx)
